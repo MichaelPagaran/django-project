@@ -1,8 +1,8 @@
 .venv/
 .env
-project/__pychache__/
+project/project/__pychache__/
 github/__pychache__
-user/__pychache__
-user/migrations/__pychache__
-user/models/__pychache__
-user/serializers/__pychache__
+project/user/__pychache__
+project/user/migrations/__pychache__
+project/user/models/__pychache__
+project/user/serializers/__pychache__
