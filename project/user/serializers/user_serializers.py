@@ -7,7 +7,7 @@ class UserSummarySerializer(ModelSerializer):
         model = User
         fields = ('firstname', 'lastname', 'birthdate')
 
-class UserDetailSerializer(ModelField):
+class UserDetailSerializer(ModelSerializer):
     class Meta:
         model = User
         fields = '__all__'

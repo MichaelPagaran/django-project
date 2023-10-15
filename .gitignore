@@ -1,5 +1,5 @@
 .venv/
-.env
+project/.env
 project/project/__pychache__/
 github/__pychache__
 project/user/__pychache__
