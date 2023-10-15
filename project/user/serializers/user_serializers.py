@@ -1,5 +1,5 @@
 from rest_framework.serializers import ModelSerializer, ModelField
-from models.user import User
+from user.models.user import User
 
 class UserSummarySerializer(ModelSerializer):
     

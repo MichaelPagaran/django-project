@@ -3,3 +3,8 @@
 
 .venv/
 project/__pychache__/
+github/__pychache__
+user/__pychache__
+user/migrations/__pychache__
+user/models/__pychache__
+user/serializers/__pychache__
